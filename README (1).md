@@ -6,12 +6,12 @@ Deploy a MERN stack blog application on AWS using free-tier eligible services. T
 
 Part1: 
 A : S3 Bucket for Frontend
+
 ￼![PM2 Backend](https://github.com/shaima-Alrefaei/Repo10/blob/main/Screenshot%20of%20S3%20public%20URL%20loading%20index.html.png?raw=true )
 
 
 B : curl -I output showing 200 OK
 
-￼
 ![PM2 Backend](https://github.com/shaima-Alrefaei/Repo10/blob/main/curl%20-I%20output%20showing%20200%20OK.png?raw=true)
 
 
